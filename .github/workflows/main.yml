@@ -29,4 +29,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: rahulmishramf/apache:kyndryl
+          tags: rahulmishramf/apache2:kyndryl
